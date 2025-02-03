@@ -1,0 +1,11 @@
+phidata
+streamlit
+python-dotenv
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+wikipedia
+googlesearch-python
+pycountry
